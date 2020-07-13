@@ -6,4 +6,5 @@
 	* mycd pathname
 	* mypwd
 * 外部自实现命令包括myls\mytouch\mymkdir
-	* 使用前，先用myexport pathname将
+	* 使用前，先用myexport pathname将当前路径加入PATH， 再调用即可
+	
